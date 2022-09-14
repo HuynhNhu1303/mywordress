@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My wordpress	</title>
-	<atom:link href="https://huynhnhu1303.github.io/mywordress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://huynhnhu1303.github.io/mywordress</link>
+	Các phản hồi luận về: blog	</title>
+	<atom:link href="https://huynhnhu1303.github.io/mywordress/2022/09/14/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://huynhnhu1303.github.io/mywordress/2022/09/14/blog/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 14 Sep 2022 08:46:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Sep 2022 08:45:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
