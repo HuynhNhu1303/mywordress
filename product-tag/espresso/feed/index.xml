@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>espresso &#8211; My wordpress</title>
+	<atom:link href="https://huynhnhu1303.github.io/mywordress/product-tag/espresso/feed/" rel="self" type="application/rss+xml" />
+	<link>https://huynhnhu1303.github.io/mywordress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 05 Oct 2022 16:13:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Ethiopia Organic Mix</title>
+		<link>https://huynhnhu1303.github.io/mywordress/product/ethiopia-organic-mix-2/</link>
+					<comments>https://huynhnhu1303.github.io/mywordress/product/ethiopia-organic-mix-2/#respond</comments>
+		
+		<dc:creator><![CDATA[ngothihuynhnhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 16:13:11 +0000</pubDate>
+				<guid isPermaLink="false">https://huynhnhu1303.github.io/mywordress/?post_type=product&#038;p=1119</guid>
+
+					<description><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.]]></description>
+										<content:encoded><![CDATA[<p>Donec pulvinar tellus eget magna aliquet ultricies.</p>
+<p>Maecenas pulvinar ex a fermentum egestas. Curabitur tristique aliquam felis, a blandit nisl consequat quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam porttitor purus elit, sit amet viverra orci pretium non. Sed libero lorem, eleifend at congue quis, semper eget mauris. Nunc ullamcorper cursus libero a luctus. Nunc urna neque, consectetur eget viverra pretium, tempor eu ex. Donec faucibus, dui at consectetur gravida, nisi diam varius metus, sit amet maximus orci eros nec felis. Ut nisi neque, condimentum id magna non, sollicitudin lobortis nibh. Etiam in fermentum felis, non venenatis augue. Donec quis ipsum tortor. Suspendisse tempor turpis vitae velit pharetra, ac varius ipsum pharetra. Ut at metus lobortis, porta tellus at, faucibus odio. Maecenas dictum quam vulputate lacus pharetra, et iaculis erat scelerisque. Nullam nec dui porta, ultricies leo nec, malesuada enim.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://huynhnhu1303.github.io/mywordress/product/ethiopia-organic-mix-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ethiopia Organic Mix</title>
+		<link>https://huynhnhu1303.github.io/mywordress/product/ethiopia-organic-mix/</link>
+					<comments>https://huynhnhu1303.github.io/mywordress/product/ethiopia-organic-mix/#respond</comments>
+		
+		<dc:creator><![CDATA[ngothihuynhnhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 09:33:12 +0000</pubDate>
+				<guid isPermaLink="false">https://huynhnhu1303.github.io/mywordress/?post_type=product&#038;p=1100</guid>
+
+					<description><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.]]></description>
+										<content:encoded><![CDATA[<p>Donec pulvinar tellus eget magna aliquet ultricies.</p>
+<p>Maecenas pulvinar ex a fermentum egestas. Curabitur tristique aliquam felis, a blandit nisl consequat quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam porttitor purus elit, sit amet viverra orci pretium non. Sed libero lorem, eleifend at congue quis, semper eget mauris. Nunc ullamcorper cursus libero a luctus. Nunc urna neque, consectetur eget viverra pretium, tempor eu ex. Donec faucibus, dui at consectetur gravida, nisi diam varius metus, sit amet maximus orci eros nec felis. Ut nisi neque, condimentum id magna non, sollicitudin lobortis nibh. Etiam in fermentum felis, non venenatis augue. Donec quis ipsum tortor. Suspendisse tempor turpis vitae velit pharetra, ac varius ipsum pharetra. Ut at metus lobortis, porta tellus at, faucibus odio. Maecenas dictum quam vulputate lacus pharetra, et iaculis erat scelerisque. Nullam nec dui porta, ultricies leo nec, malesuada enim.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://huynhnhu1303.github.io/mywordress/product/ethiopia-organic-mix/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
