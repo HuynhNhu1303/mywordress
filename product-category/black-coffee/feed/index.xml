@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -12,8 +15,8 @@
 	<atom:link href="https://huynhnhu1303.github.io/mywordress/product-category/black-coffee/feed/" rel="self" type="application/rss+xml" />
 	<link>https://huynhnhu1303.github.io/mywordress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 05 Oct 2022 16:35:03 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Thu, 13 Oct 2022 06:36:04 +0000</lastBuildDate>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

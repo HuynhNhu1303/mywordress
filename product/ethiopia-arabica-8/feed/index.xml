@@ -4,14 +4,17 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
-	Comments on: Ethiopia Arabica	</title>
+	Các phản hồi luận về: Ethiopia Arabica	</title>
 	<atom:link href="https://huynhnhu1303.github.io/mywordress/product/ethiopia-arabica-8/feed/" rel="self" type="application/rss+xml" />
 	<link>https://huynhnhu1303.github.io/mywordress/product/ethiopia-arabica-8/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 05 Oct 2022 16:33:23 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Oct 2022 06:42:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
