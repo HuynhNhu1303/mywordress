@@ -14,11 +14,11 @@
 	<atom:link href="https://huynhnhu1303.github.io/mywordress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://huynhnhu1303.github.io/mywordress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 13 Oct 2022 09:32:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Oct 2022 15:15:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
